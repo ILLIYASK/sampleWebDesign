@@ -32,6 +32,7 @@
     background-color: white;
     font-weight: bold;
     
+    
 
 
 }
@@ -39,6 +40,11 @@
     background-color:#04AA6D ;
     color: black;
 }
+.headerbutton:active{
+    background-color: black;
+    
+}
+
 
 #upgradebutton{
     
@@ -55,6 +61,11 @@
 
 #upgradebutton:hover{
     background-color: hsla(0, 0%, 30%, 1);
+}
+
+.upgradebutton:active{
+    background-color: black;
+    
 }
 
 #getbutton{
