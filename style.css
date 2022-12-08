@@ -110,3 +110,34 @@
 #loginbutton:hover{
     background-color:rgba(4, 136, 79, 0.9);
 }
+
+body{
+    margin: 0px;
+}
+
+.topnav{
+    height: 44px;
+    width: 100%;
+    background-color: #282A35;
+    color: #f1f1f1;
+    font-family: 'Source Sans Pro', sans-serif;
+    float: left;
+    
+    
+
+    
+    
+}
+
+.topnavicons{
+    background-color:#282A35;
+    border: none;
+    height: 100%;
+   
+}
+.topnavicons:hover{
+    background-color: black;
+}
+.topnavicons:active{
+    background-color:#04AA6D ;
+}
