@@ -18,7 +18,7 @@
     margin-top: 10px;
 }
 
-.tutorial{
+.headerbutton{
     color: black;
     padding-top: 18px;
     padding-bottom: 28px;
@@ -29,6 +29,6 @@
 
 
 }
-.tutorial:hover{
+.headerbutton:hover{
     background-color:#04AA6D ;
 }
