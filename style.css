@@ -42,9 +42,23 @@
     height: 44px;
     background-color:black;
     font-size: 18px;
+    border: 0px;
 
 }
 
 #upgradebutton:hover{
     background-color: hsla(0, 0%, 30%, 1);
+}
+
+#getbutton{
+    background-color: #FFC0C7;
+    margin-left: 19px;
+    border-radius: 25px;
+    height: 44px;
+    font-size: 18px;
+    border: 0px;
+}
+
+#getbutton:hover{
+    background-color:hsla(359, 100%, 67%, 0.6);
 }
