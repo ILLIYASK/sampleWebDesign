@@ -134,6 +134,7 @@ body{
     background-color:yellow;
     border: none;
     height: 45px;
+    text-decoration-line: none;
     
     
     
@@ -144,4 +145,9 @@ body{
 }
 .topnavicons:active{
     background-color:#04AA6D ;
+}
+
+.topnaviconslink{
+    text-decoration-line: none; 
+    color: white;
 }
