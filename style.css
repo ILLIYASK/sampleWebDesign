@@ -151,3 +151,8 @@ body{
     text-decoration-line: none; 
     color: white;
 }
+
+.topnaviconsimage{
+    width:25px;
+    height:25px
+}
