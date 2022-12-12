@@ -3,6 +3,7 @@
     width: 100%;
     height: 100%;
     color: black;
+    
 }
 .header{
     background-color: white;
@@ -180,6 +181,12 @@ body{
     height: 100%;
     width: 220px;
     background-color:#f1f1f1;
+    
+    
+    
+}
+.sidemenuinner{
+    height: 100px;
     overflow-y: scroll;
     overflow-x: hidden;
 }
