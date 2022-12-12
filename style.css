@@ -186,7 +186,7 @@ body{
     
 }
 .sidemenuinner{
-    height: 100px;
+    height: 480px;
     overflow-y: scroll;
     overflow-x: hidden;
 }
