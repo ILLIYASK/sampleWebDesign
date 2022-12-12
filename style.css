@@ -184,3 +184,10 @@ body{
     overflow-x: hidden;
 }
 
+.sidemenuinnerlink{
+
+    text-decoration-line: none;
+    margin-left: 16px;
+    color: black;
+    font-size: 16px;
+}
