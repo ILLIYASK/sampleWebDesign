@@ -171,3 +171,16 @@ body{
 .topnaviconsimg:hover{
     background-color: black;
 }
+
+.contants{
+    float: left;
+}
+
+.sidemenu{
+    height: 100%;
+    width: 220px;
+    background-color:#f1f1f1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
