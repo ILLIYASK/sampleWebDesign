@@ -198,4 +198,18 @@ body{
     margin-left: 16px;
     color: black;
     font-size: 16px;
+    
+}
+tr:hover{
+    background-color: hsla(323, 1%, 69%, 1)
+}
+tr:active{
+    background-color: #04AA6D;
+}
+.sidemenuheading{
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+.sidemenuheading{
+    pointer-events: none;
 }
