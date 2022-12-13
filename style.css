@@ -213,3 +213,17 @@ tr:active{
 .sidemenuheading{
     pointer-events: none;
 }
+.maincontants{
+    
+    background-color:white;
+    width: 800px;
+    height: 480px;
+}
+.rightside{
+    position: absolute;
+    top: 122px;
+    left: 1025px;
+    background-color: #FFC0C7;
+    height: 480px;
+    width: 183px;
+}
