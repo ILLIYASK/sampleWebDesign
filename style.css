@@ -249,5 +249,10 @@ tr:active{
     border: none;
     border-radius: 5px;
     margin-left: 38px;
+    font-size: 17px;
+    font-weight: bold;
   
+}
+.nextprev:hover{
+    background-color: #129563;
 }
