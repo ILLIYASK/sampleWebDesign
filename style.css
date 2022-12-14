@@ -240,3 +240,13 @@ tr:active{
     margin-left: 38px;
     margin-top: 110px;
 }
+.nextprev{
+    background-color: #04AA6D;
+    margin: 10px;
+    height: 40px;
+    width: 90px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 38px;
+  
+}
