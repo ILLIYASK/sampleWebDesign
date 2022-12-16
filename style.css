@@ -4,6 +4,7 @@
     height: 100%;
     color: black;
     
+    
 }
 .header{
     background-color: white;
@@ -178,11 +179,9 @@ body{
 }
 
 .sidemenu{
-    height: 100%;
+    height: 480px;
     width: 225px;
     background-color:#f1f1f1;
-    
-    
     
     
 }
@@ -217,21 +216,16 @@ tr:active{
     
     background-color:white;
     width: 800px;
-    height: 480px;
+    
+    
 }
 .rightside{
-    position: absolute;
-    top: 122px;
-    left: 1025px;
-    background-color: #FFC0C7;
-    height: 480px;
+    background-color:rgb(250, 158, 158);
+    height: 100%;
     width: 183px;
 }
 .topads{
-    position: absolute;
-    top: 130px;
-    left: 1050px;
-    background-color: green;
+    background-color: rgb(105, 130, 105);
     height: 100px;
     width: 500px;
 }
@@ -261,4 +255,12 @@ tr:active{
     padding: 32px;
     margin: 24px;
     font-size: 16px;
+}
+.centerright{
+    position: absolute;
+    height: 480px;
+    overflow-x: scroll;
+    top: 125px;
+    left: 225px;
+    width: 980px;
 }
